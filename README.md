@@ -264,8 +264,6 @@ Observação: os menus especiais de cadastro dos exemplos oficiais e resumo fina
 
 ## Link do vídeo explicativo
 
-Adicionar aqui o link do vídeo ou o caminho do arquivo:
-
 ```text
-https://youtube.com/...
+https://youtu.be/wmDp9YPYBEM
 ```
